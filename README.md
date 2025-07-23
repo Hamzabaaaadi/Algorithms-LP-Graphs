@@ -1,4 +1,5 @@
-Linear Programming & Graph Algorithms
+Linear Programming & Graph Algorithms :
+
 This repository contains implementations of fundamental linear programming (LP) and graph algorithms, designed for optimization, operations research, and computer science applications. Key features include:
 
 📊 Linear Programming
